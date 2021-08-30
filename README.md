@@ -1,4 +1,4 @@
-# New Project
+# Fatbellies frontend app
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
