@@ -7,6 +7,7 @@ export default {
   },
   plugins: [
     /* ... */
+     '@snowpack/plugin-postcss',
   ],
   routes: [
     /* Enable an SPA Fallback in development: */
@@ -21,6 +22,7 @@ export default {
   },
   devOptions: {
     /* ... */
+    tailwindConfig: './tailwind.config.js',
   },
   buildOptions: {
     /* ... */
